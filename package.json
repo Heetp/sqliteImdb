@@ -1,0 +1,18 @@
+{
+  "name": "upgraddemo",
+  "version": "1.0.0",
+  "description": "An application to store and display top 250 movies from IMDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "npm install",
+    "webdriver-manager:update":"node node_modules/protractor/bin/webdriver-manager update",
+    "e2eTest": "node node_modules/protractor/bin/protractor config/conf.js"
+  },
+  "author": "Heet Pandya",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "protractor": "^5.1.2",
+    "sqlite3": "^3.1.8"
+  }
+}
