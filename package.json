@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "setup": "npm install",
     "webdriver-manager:update":"node node_modules/protractor/bin/webdriver-manager update",
-    "e2eTest": "node node_modules/protractor/bin/protractor config/conf.js"
+    "e2eTest": "node node_modules/protractor/bin/protractor config/config.js"
   },
   "author": "Heet Pandya",
   "license": "UNLICENSED",
