@@ -1,7 +1,7 @@
 This document describes how to setup and run protractor test for this project.
 
 
-To Setup, open a shell or command prompt and change the current directory to FlipkartE2E.
+To Setup, open a shell or command prompt and change the current directory to project.
 run following command to setup protractor.
 
 
