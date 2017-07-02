@@ -20,6 +20,6 @@ Command: npm run webdriver-manager:update.
 Wait few more minutes for selenium jar and browser binaries to be downloaded and unzipped.
 
 
-To Run test, we have following 3 commands:
+To Run test, we have following command:
  1) npm run e2eTest
  
